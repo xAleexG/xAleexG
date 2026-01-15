@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Alexander González
 
-<!--
-**xAleexG/xAleexG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer based in Madrid, Spain  
+🚀 Continuous learning & problem solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+Full Stack Developer with experience building web applications using modern frontend and backend technologies. I enjoy learning, writing clean code, and solving real-world problems.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Frontend**
+- HTML5, CSS3, JavaScript  
+- React, Bootstrap  
+
+**Backend**
+- Node.js, Express  
+- Python, Flask  
+
+**Databases**
+- SQL, SQLAlchemy  
+
+---
+
+## 🎓 Education
+- **Full Stack Developer** – 4Geeks Academy (2025)  
+- **Administration of Computer Systems and Networks (ASIR)** – thePower *(Currently studying)*  
+- **Master’s Degree in Cybersecurity** – thePower *(Currently studying)*  
+
+---
+
+## 🌍 Languages
+- Spanish (Native)  
+- English  
